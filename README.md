@@ -12,8 +12,9 @@ Developed by: Zachariah Falgout
 
 Title Screen and Concept Art by: LENZ
 LENZ's work can be found at:
-[Deviant Art](http://chibi-pokky.deviantart.com)
-[Art Amino](http://www.aminoapps.com/page/art/4475254/lenz)
+[LENZ's Deviant Art](http://chibi-pokky.deviantart.com)
+
+[LENZ's Art Amino](http://www.aminoapps.com/page/art/4475254/lenz)
 
 Paddles by: Zachariah Falgout
 

@@ -11,6 +11,7 @@ while the other Player uses the A and B buttons. This game is made to run on the
 Developed by: Zachariah Falgout
 
 Title Screen and Concept Art by: LENZ
+
 LENZ's work can be found at:
 
 [LENZ's Deviant Art](http://chibi-pokky.deviantart.com)

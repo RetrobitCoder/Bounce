@@ -13,7 +13,7 @@ Title Screen and Concept Art by: LENZ
 
 Paddles by: Zachariah Falgout
 
-# Controls
+## Controls
 Menu Controls
 -----------------
 Left/Right button moves menu select left/right

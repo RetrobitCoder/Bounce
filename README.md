@@ -49,3 +49,6 @@ Credits Control
 -----------------
 B button returns to menu screen
 Left and Right buttons pressed at same time returns to main menu
+
+##Download
+Rename file from Bounce-master to Bounce then upload to Arduboy

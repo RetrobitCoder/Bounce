@@ -27,27 +27,37 @@ Paddles by: Zachariah Falgout
 Menu Controls
 -----------------
 Left/Right button moves menu select left/right
+
 A button selects option
 
 Game Controls
 -----------------
 Up/Down button moves left paddle up/down
+
 B/A moves button right paddle up/down
+
 Left/Right button pause/unpause the game
+
 Left and Right buttons pressed at same time returns to main menu
+
 Left and B buttons pressed at same time resets game to start, where scores are 0
  
 Option Controls
 -----------------
 Left/Right button moves option select left/right
+
 Up/Down button moves option select up/down
+
 A button selects option
+
 B button returns to menu screen
+
 Left and Right buttons pressed at same time returns to main menu
 
 Credits Control
 -----------------
 B button returns to menu screen
+
 Left and Right buttons pressed at same time returns to main menu
 
 ##Download

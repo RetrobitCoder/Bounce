@@ -402,11 +402,13 @@ void detectCol()
 
   else if(ballX-BALL_RADIUS < 0)
   {
+    if(p2Score == 255) p2Score = 0;
     p2Score++;
     start = !start;
   }
   else if(ballX+BALL_RADIUS > WIDTH)
   {
+    if(p1Score == 255) p1Score = 0;
     p1Score++;
     start = !start;
   }

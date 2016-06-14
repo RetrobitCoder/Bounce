@@ -8,6 +8,9 @@ highest score when the player(s) stop, wins.
 This game is designed to be able to play with two players. One player uses the Up and Down buttons,
 while the other Player uses the A and B buttons. This game is made to run on the Arduboy.
 
+The max score value is 255, if a player plays long enough to reach the max value, then score resets to 0, and player
+adds new score to 255 to determine final score.
+
 Developed by: Zachariah Falgout
 
 Title Screen and Concept Art by: LENZ
@@ -31,17 +34,18 @@ Game Controls
 Up/Down button moves left paddle up/down
 B/A moves button right paddle up/down
 Left/Right button pause/unpause the game
-Left and Right button pressed at same time returns to main menu
-
+Left and Right buttons pressed at same time returns to main menu
+Left and B buttons pressed at same time resets game to start, where scores are 0
+ 
 Option Controls
 -----------------
 Left/Right button moves option select left/right
 Up/Down button moves option select up/down
 A button selects option
 B button returns to menu screen
-Left and Right button pressed at same time returns to main menu
+Left and Right buttons pressed at same time returns to main menu
 
 Credits Control
 -----------------
 B button returns to menu screen
-Left and Right button pressed at same time returns to main menu
+Left and Right buttons pressed at same time returns to main menu

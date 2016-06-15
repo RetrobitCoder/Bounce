@@ -25,6 +25,8 @@ LENZ's work can be found at:
 
 Paddles by: Zachariah Falgout
 
+Runs using Arduboy Library V1.1
+
 ## Controls
 Menu Controls
 -----------------

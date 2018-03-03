@@ -65,7 +65,8 @@ B button returns to menu screen
 Left and Right buttons pressed at same time returns to main menu
 
 ## Download
-Rename file from Bounce-master to Bounce then upload to Arduboy
+Rename file from Bounce-master to Bounce then upload to Arduboy using the Arduino IDE, or
+use the pre-compiled hex file and an Arduboy uploader that supports hex file uploading.
 
 ## Game License
 MIT : https://opensource.org/licenses/MIT

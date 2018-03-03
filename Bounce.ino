@@ -6,7 +6,8 @@
 
   author: Zachariah Falgout
 */
-#include <Arduboy.h>
+#include <Arduboy2.h>
+#include <ArduboyTones.h>
 #include "bitmaps.h"
 
 #define PAUSED 1
@@ -49,7 +50,8 @@ unsigned int hits = 0;
 unsigned int sound[] = {256, 2048};
 bool soundOn = true;
 
-Arduboy ab;
+Arduboy2 ab;
+ArduboyTones abSound(ab.audio.enabled);
 
 //initial setup
 void setup() 
@@ -57,8 +59,6 @@ void setup()
   ab.begin();
   ab.initRandomSeed();
   ab.audio.on();
-  ab.tunes.initChannel(PIN_SPEAKER_1);
-  ab.tunes.initChannel(PIN_SPEAKER_2);
 
   state = MENU;
   drawMenu();
@@ -357,7 +357,7 @@ void playTone(int pos)
 {
   if(soundOn)
   {
-    ab.tunes.tone(sound[pos], 20);
+    abSound.tone(sound[pos], 20);
     if(pos == 0)
     {
       delay(30);

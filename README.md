@@ -64,8 +64,8 @@ B button returns to menu screen
 
 Left and Right buttons pressed at same time returns to main menu
 
-##Download
+## Download
 Rename file from Bounce-master to Bounce then upload to Arduboy
 
-##Game License
+## Game License
 MIT : https://opensource.org/licenses/MIT

@@ -1,6 +1,5 @@
 # Bounce
-![Concept Title Image](https://github.com/KurayamiSenpai/Bounce/blob/master/Images/ConceptTitle.png)
-[Bounce Demo Video](https://www.youtube.com/watch?v=IHgH_zxEEJQ)
+![Concept Title Image](/Images/ConceptTitle.png)
 
 A paddle and ball game in the vein on Atari's Pong.
 Two dogs are trying to hit the ball back and forth without the ball going past them.

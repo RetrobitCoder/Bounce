@@ -68,4 +68,4 @@ Rename file from Bounce-master to Bounce then upload to Arduboy using the Arduin
 use the pre-compiled hex file and an Arduboy uploader that supports hex file uploading.
 
 ## Game License
-MIT : https://opensource.org/licenses/MIT
+MIT : <https://opensource.org/licenses/MIT>

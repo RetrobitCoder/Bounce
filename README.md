@@ -1,5 +1,5 @@
 # Bounce
-![Concept Title Image](/Images/ConceptTitle.png)
+![banner image](/Images/banner.jpeg)
 
 Title Screen and Concept Art by: LENZ
 

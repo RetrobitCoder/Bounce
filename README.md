@@ -11,7 +11,7 @@ Developer: Zachariah Falgout (RetrobitCoder)
 
 Game Art: Zachariah Falgout (RetrobitCoder)
 
-Arduboy Library V1.1
+Arduboy Library: Arduboy2
 
 ## Story
 ---

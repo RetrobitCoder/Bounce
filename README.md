@@ -11,7 +11,7 @@ Developer: Zachariah Falgout (RetrobitCoder)
 
 Game Art: Zachariah Falgout (RetrobitCoder)
 
-Arduboy Library V1.1
+Arduboy Library: Arduboy2
 
 ## Story
 ---
@@ -35,13 +35,13 @@ Two players control two paddles and try to hit the ball past the opposing player
 ## Controls
 ---
 
-Menu Controls
+### Menu Controls
 ---
 Left/Right button moves menu select left/right
 
 A button selects option
 
-Game Controls
+### Game Controls
 ---
 Up/Down button moves left dog up/down
 
@@ -53,7 +53,7 @@ Left and Right buttons pressed at same time returns to main menu
 
 Left and B buttons pressed at same time resets game to start, where scores are 0
 
-Option Controls
+### Option Controls
 ---
 Left/Right button moves option select left/right
 
@@ -65,7 +65,7 @@ B button returns to menu screen
 
 Left and Right buttons pressed at same time returns to main menu
 
-Credits Control
+### Credits Control
 ---
 B button returns to menu screen
 

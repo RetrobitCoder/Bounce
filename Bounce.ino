@@ -8,6 +8,7 @@
 */
 #include <Arduboy2.h>
 #include <ArduboyTones.h>
+#include <Sprites.h>
 #include "bitmaps.h"
 
 #define PAUSED 1
@@ -52,6 +53,7 @@ bool soundOn = true;
 
 Arduboy2 ab;
 ArduboyTones abSound(ab.audio.enabled);
+Sprites sprite;
 
 //initial setup
 void setup() 
@@ -61,6 +63,10 @@ void setup()
   ab.audio.on();
 
   state = MENU;
+  ab.clear();
+  sprite.drawSelfMasked(0,0, ArduboyTitle_RetrobitCoder, 0);
+  ab.display();
+  ab.delayShort(3000);
   drawMenu();
 }
 

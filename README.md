@@ -73,10 +73,6 @@ Left and Right buttons pressed at same time returns to main menu
 
 ## How to Download
 ---
-
-### .arduboy
-Using an Arduboy game uploader, upload the .arduboy file to your Arduboy.
-
 ### .hex
 Using an Arduboy game uploader that supports .hex files, or any other tools that can upload .hex files to the Arduboy, upload the .hex file to your Arduboy.
 

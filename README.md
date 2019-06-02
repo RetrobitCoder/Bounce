@@ -13,6 +13,9 @@ Game Art: Zachariah Falgout (RetrobitCoder)
 
 Arduboy Library: Arduboy2
 
+![screenshot0](/Images/screenshot0.png)
+![screenshot1](/Images/screenshot1.png)
+
 ## Story
 ---
 

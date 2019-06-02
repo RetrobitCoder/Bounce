@@ -16,6 +16,8 @@ Arduboy Library: Arduboy2
 ![screenshot0](/Images/screenshot0.png)
 ![screenshot1](/Images/screenshot1.png)
 
+Play the game in [browser](https://felipemanga.github.io/ProjectABE/?url=https://github.com/RetrobitCoder/Bounce/blob/master/Bounce.ino.leonardo.hex).
+
 ## Story
 ---
 
